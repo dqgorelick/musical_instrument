@@ -256,7 +256,19 @@ This is a workshop project designed for learning and experimentation. Feel free 
 
 ## 📄 License
 
-This project is open for educational use. Have fun making music! 🎵
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+**In simple terms:**
+- ✅ Use for educational purposes
+- ✅ Remix and adapt the code
+- ✅ Share with others
+- 🚫 **No commercial use**
+- 📝 Give credit to the original author
+- 🔄 Share adaptations under the same license
+
+See the [LICENSE](LICENSE) file for full details.
+
+Have fun making music! 🎵
 
 ---
 
